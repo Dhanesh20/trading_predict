@@ -1,0 +1,11 @@
+pandas
+numpy
+seaborn
+requests
+matplotlib
+scikit-learn
+nsepy
+nsetools
+alpha_vantage
+statsmodels
+ipykernel
