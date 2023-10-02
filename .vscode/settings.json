@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./trades/Lib/site-packages/nsetools"
+    ]
+}

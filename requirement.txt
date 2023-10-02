@@ -9,3 +9,6 @@ nsetools
 alpha_vantage
 statsmodels
 ipykernel
+flask
+catboost
+xgboost
