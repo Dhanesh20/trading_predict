@@ -12,3 +12,5 @@ ipykernel
 flask
 catboost
 xgboost
+dill
+pickle
